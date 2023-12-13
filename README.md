@@ -23,7 +23,7 @@
 ![WDebian](https://img.shields.io/badge/-Debian-blue?style=flat-square&logo=Debian&logoColor=fff)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AkashiCoin" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Katriell" />
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
