@@ -5,7 +5,7 @@
 📫Contact me
 
 * [![Email](https://img.shields.io/badge/Email-Iris@satania.work-1?style=social&logoColor=fff)](mailto:Iris@satania.work)
-* [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2088839458&website=www.oicqzone.com)
+* [![QQ](https://img.shields.io/badge/QQ-2088839458-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2088839458&website=www.oicqzone.com)
 
 ✏I'm studying these now
 
