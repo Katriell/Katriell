@@ -1,3 +1,28 @@
+📰My blog: https://www.satania.work
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katriell"/>
+
+📫Contact me
+
+* [![Email](https://img.shields.io/badge/Email-Iris@satania.work-1?style=social&logoColor=fff)](mailto:Iris@satania.work)
+* [![QQ](https://img.shields.io/badge/QQ-1040186796-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2088839458&website=www.oicqzone.com)
+
+✏I'm studying these now
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)
+
+🔨I use these tools to code
+
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=pycharm&logoColor=fff)
+
+ ~~These are other tools~~
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
+![WDebian](https://img.shields.io/badge/-Debian-blue?style=flat-square&logo=Debian&logoColor=fff)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katriell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
@@ -24,13 +49,5 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Katriell/Katriell/main/assets/bar_graph.png)
-
-
  Last Updated on 13/12/2023 03:00:42 UTC
 <!--END_SECTION:waka-->
