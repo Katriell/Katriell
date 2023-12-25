@@ -24,7 +24,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
+<img align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
