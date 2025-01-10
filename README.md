@@ -27,15 +27,13 @@
 <img align="right" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 187.0 kB Used in GitHub's Storage 
  > 
-> 🏆 218 Contributions in the Year 2025
+> 🏆 222 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,10 +44,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2404 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌆 Daytime                2673 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+🌞 Morning                2404 commits        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+🌆 Daytime                2673 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
 🌃 Evening                2619 commits        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-🌙 Night                  2606 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌙 Night                  2607 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -59,7 +57,7 @@ Tuesday                  1458 commits        ████░░░░░░░�
 Wednesday                1495 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 Thursday                 1509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 Friday                   1497 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Saturday                 1454 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 1455 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Sunday                   1438 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 ```
 
@@ -95,5 +93,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 15:24:13 UTC
+ Last Updated on 10/01/2025 16:30:48 UTC
 <!--END_SECTION:waka-->
