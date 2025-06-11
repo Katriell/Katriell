@@ -1,4 +1,4 @@
-📰My blog: https://www.satania.work
+📰My blog: https://blog.satania.work
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katriell"/>
 
