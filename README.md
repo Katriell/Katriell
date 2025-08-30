@@ -27,15 +27,13 @@
 <img align="right" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 189.0 kB Used in GitHub's Storage 
  > 
-> 🏆 5,512 Contributions in the Year 2025
+> 🏆 5,515 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,7 +47,7 @@
 🌞 Morning                3525 commits        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
 🌆 Daytime                4064 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
 🌃 Evening                4011 commits        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌙 Night                  3996 commits        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌙 Night                  3997 commits        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -60,7 +58,7 @@ Wednesday                2251 commits        ████░░░░░░░�
 Thursday                 2264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Friday                   2251 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Saturday                 2236 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   2182 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Sunday                   2183 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
 
 
@@ -95,5 +93,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 15:22:39 UTC
+ Last Updated on 30/08/2025 16:27:33 UTC
 <!--END_SECTION:waka-->
