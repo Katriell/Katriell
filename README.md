@@ -27,15 +27,13 @@
 <img align="right" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.57%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 190.2 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,45 +41,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4141 commits        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌆 Daytime                4820 commits        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌃 Evening                4763 commits        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌙 Night                  4751 commits        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2609 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  2626 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                2663 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Thursday                 2677 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   2664 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Saturday                 2646 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Sunday                   2590 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -95,5 +54,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 11:23:24 UTC
+ Last Updated on 03/01/2026 12:53:34 UTC
 <!--END_SECTION:waka-->
