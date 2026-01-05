@@ -27,15 +27,15 @@
 <img align="right" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.57%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.57%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 190.2 kB Used in GitHub's Storage 
  > 
-> 🏆 104 Contributions in the Year 2026
+> 🏆 106 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,14 +49,14 @@
 🌞 Morning                4149 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 🌆 Daytime                4832 commits        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 🌃 Evening                4779 commits        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌙 Night                  4765 commits        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+🌙 Night                  4766 commits        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2631 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Tuesday                  2628 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Wednesday                2663 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Tuesday                  2629 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Wednesday                2663 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Thursday                 2677 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 Friday                   2664 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 Saturday                 2650 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
@@ -95,5 +95,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 17:31:04 UTC
+ Last Updated on 05/01/2026 18:45:45 UTC
 <!--END_SECTION:waka-->
