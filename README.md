@@ -27,13 +27,15 @@
 <img align="right" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.57%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,566 Contributions in the Year 2026
+> 🏆 2,567 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,7 +49,7 @@
 🌞 Morning                4575 commits        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
 🌆 Daytime                5464 commits        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 🌃 Evening                5451 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌙 Night                  5496 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+🌙 Night                  5497 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -57,8 +59,8 @@ Tuesday                  2974 commits        ████░░░░░░░�
 Wednesday                3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Thursday                 3020 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 Friday                   3022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Saturday                 3026 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   2977 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Saturday                 3027 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   2977 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 
 
@@ -68,16 +70,19 @@ Sunday                   2977 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     49 mins             ███████████████████████░░   93.10 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████░░░░░░░░░░░░   51.65 % 
+Unknown Editor           25 mins             ████████████░░░░░░░░░░░░░   48.35 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cc                       48 mins             ███████████████████████░░   91.28 % 
+Iris                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +98,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 17:47:56 UTC
+ Last Updated on 15/05/2026 19:47:35 UTC
 <!--END_SECTION:waka-->
