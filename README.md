@@ -27,17 +27,13 @@
 <img align="right" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=Katriell&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2027%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 191.6 kB Used in GitHub's Storage 
  > 
-> 🏆 4,238 Contributions in the Year 2026
+> 🏆 4,285 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4998 commits        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-🌆 Daytime                5778 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌃 Evening                5858 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-🌙 Night                  6022 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌞 Morning                5016 commits        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+🌆 Daytime                5784 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+🌃 Evening                5866 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+🌙 Night                  6037 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3197 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Tuesday                  3195 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                3233 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Thursday                 3229 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Friday                   3229 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 3304 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Sunday                   3269 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Monday                   3205 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  3201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Wednesday                3241 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Thursday                 3236 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   3236 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 3311 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   3273 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 
 
@@ -103,5 +99,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 18:27:41 UTC
+ Last Updated on 14/11/2026 05:38:12 UTC
 <!--END_SECTION:waka-->
